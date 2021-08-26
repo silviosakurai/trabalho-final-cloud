@@ -1,0 +1,6 @@
+*.venv/
+*.csv
+*.db
+*.pyc
+*.zip
+*.tar
